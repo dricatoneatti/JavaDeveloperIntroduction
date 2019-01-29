@@ -3,8 +3,21 @@
   <component name="ChangeListManager">
     <list default="true" id="b869baab-2844-463e-924c-473e49cf97d6" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../DesafioJava/src/test/java/Semana1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDeveloperIntrodution.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaDeveloperIntrodution/FloatAndDouble.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaDeveloperIntrodution/HelloWord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaDeveloperIntrodution/IfKeywordsAndCodeBlocks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaDeveloperIntrodution/Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaDeveloperIntrodution/Operators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaDeveloperIntrodution/PrimitiveDataTypes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaDeveloperIntrodution/String.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/FloatAndDouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HelloWord.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/IfKeywordsAndCodeBlocks.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Methods.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Operators.java" afterDir="false" />
@@ -38,13 +51,13 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="8" />
+          <entry key="java" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="8" />
+          <entry key="JAVA" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -62,7 +75,17 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FloatAndDouble.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="22" selection-start-line="21" selection-start-column="63" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -116,6 +139,10 @@
               <item name="Main" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -125,7 +152,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548777655900" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548778106714" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -163,6 +190,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -246,13 +274,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FloatAndDouble.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="22" selection-start-line="21" selection-start-column="63" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PrimitiveDataTypes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -282,6 +303,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FloatAndDouble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="22" selection-start-line="21" selection-start-column="63" selection-end-line="22" />
         </state>
       </provider>
     </entry>
