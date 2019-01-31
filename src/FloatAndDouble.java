@@ -12,7 +12,7 @@ public class FloatAndDouble {
 
         System.out.println ("My int Value = " + myIntValue);
         System.out.println ("My float Value = " + myFloatValue);
-        System.out.println ("My double Value = " + myDoubleValue);
+         System.out.println ("My double Value = " + myDoubleValue);
 
 
         //Convert a given number of pounds to kilograms
