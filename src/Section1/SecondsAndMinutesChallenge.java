@@ -1,3 +1,5 @@
+package Section1;
+
 public class SecondsAndMinutesChallenge {
 
     //Constant variable

@@ -1,3 +1,5 @@
+package Section1;
+
 public class MethodOverloading {
     public static void main(java.lang.String[] args) {
         int newScore = calculateScore ("Joaquim", 500);
@@ -31,7 +33,7 @@ public class MethodOverloading {
         if ((feet < 0) || ((inches < 0) || (inches > 13))) {
             return -1;
         }
-      
+
         //Calculate the total centimeters
         double centimeters = (feet * 12) * 2.54;
         centimeters += inches * 2.54;

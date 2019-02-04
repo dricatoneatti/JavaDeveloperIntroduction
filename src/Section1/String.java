@@ -1,3 +1,5 @@
+package Section1;
+
 public class String<lastString, myInt> {
 
     public static void main(java.lang.String[] args) {

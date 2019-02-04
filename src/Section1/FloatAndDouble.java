@@ -1,3 +1,5 @@
+package Section1;
+
 public class FloatAndDouble {
         public static void main(java.lang.String[] args) {
 

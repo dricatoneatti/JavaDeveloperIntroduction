@@ -1,4 +1,6 @@
-public class Exercises {
+package Section1;
+
+public class ExercisesI {
     public static void main(java.lang.String[] args) {
 
         checkNumber (9320);

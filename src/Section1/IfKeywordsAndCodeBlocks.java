@@ -1,3 +1,5 @@
+package Section1;
+
 public class IfKeywordsAndCodeBlocks {
     public static void main(java.lang.String[] args) {
         boolean gameOver = true;
